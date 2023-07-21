@@ -14,4 +14,4 @@ Fernando Volpi  - Modelo de negócio
 Murilo Schneider - Identidade visual
 
 ## Vídeo demostração de telas
-![Buy You](https://github.com/CardosoEmanuela/ProjetoAppBuyYou/blob/main/Assets/gestaoFarmacia.gif) 
+![Buy You](https://github.com/CardosoEmanuela/ProjetoAppBuyYou/blob/main/Assets/videobuyou_2_.gif) 
