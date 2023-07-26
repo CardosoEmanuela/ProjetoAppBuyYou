@@ -13,5 +13,5 @@ Emanuela Cardoso  - Desenvolvimento
 Fernando Volpi  - Modelo de negócio                       
 Murilo Schneider - Identidade visual
 
-## Vídeo demostração de telas
+## Vídeo demonstração de telas
 ![Buy You](https://github.com/CardosoEmanuela/ProjetoAppBuyYou/blob/main/Assets/videobuyou_2_.gif) 
